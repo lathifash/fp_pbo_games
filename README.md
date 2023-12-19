@@ -26,6 +26,7 @@ menjalani rintangan dan kesulitan, yang akan menjadi inti dari perjalanan ini!
 ### Start Screen
 ![start-screen](https://github.com/lathifash/fp_pbo_games/assets/113702902/89e53965-afa6-4add-a1d8-2d3fe2aaf3d8)
 
+### Demo
 
-
+https://drive.google.com/file/d/1PjqhSBtzjCPT3X99TNMRi4heoWpZ6qhq/view?usp=sharing
 
