@@ -28,5 +28,6 @@ menjalani rintangan dan kesulitan, yang akan menjadi inti dari perjalanan ini!
 
 ### Demo
 
-https://drive.google.com/file/d/1PjqhSBtzjCPT3X99TNMRi4heoWpZ6qhq/view?usp=sharing
+https://github.com/lathifash/fp_pbo_games/assets/143981808/78b3d59a-502a-4bbe-bc0c-0d51b8523f1e
+
 
