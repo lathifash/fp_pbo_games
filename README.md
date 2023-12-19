@@ -24,5 +24,7 @@ menjalani rintangan dan kesulitan, yang akan menjadi inti dari perjalanan ini!
 ## In-game Screens
 
 ### Start Screen
-![start screen](C:\Users\ASUS S14\OneDrive\Documents\SEMESTER 3 KULIAH\PBO E LUVV\Project\FP\Find My Babu\fp_pbo_games\Find My Babu\src\media\start-screen.png)
+![start screen]
+
+
 
